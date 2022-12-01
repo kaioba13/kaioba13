@@ -3,7 +3,7 @@
 - 👨🏽‍💻 Estuando Node JS e React JS ...
 - 🚀 Always keep learning ...
  
-<div style="display: flex; flex-direction: row">
+<div>
   <a href="https://github.com/kaioba13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaioba13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioba13&layout=compact&langs_count=7&theme=tokyonight"/>
