@@ -3,7 +3,7 @@
 - 👨🏽‍💻 Estuando Node JS e React JS ...
 - 🚀 Always keep learning ...
  
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/kaioba13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaioba13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioba13&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -11,7 +11,7 @@
   
   ##
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
